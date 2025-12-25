@@ -1,5 +1,7 @@
 # Reza Mansouri
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bridging+between+science+%26+society)](https://git.io/typing-svg)
+
 Medical Laboratory Scientist | Science Communicator | Medical & Scientific Writer  
 Interests: Genetics, Bioinformatics, Philosophy of Science, Applied AI
 
@@ -42,7 +44,7 @@ I treat learning as a long-term, structured process rather than a short-term goa
 ### Computational
 - Python for data analysis, automation, and scientific workflows  
 - Introductory bioinformatics concepts and pipelines  
-- Data handling, visualization, and reproducible research practices  
+- Data handling, visualisation, and reproducible research practices  
 
 ### Writing & Communication
 - Medical and scientific writing  
@@ -83,6 +85,6 @@ My long-term aim is to work at the intersection of science, computation, and com
 ## Contact & Links
 
 - GitHub: https://github.com/rezamansourii
-- Personal Website: https://rezamansouri.ir/
+- Personal Website: https://rezamansouri.ir
 - Email: mansouri.reza.99@gmail.com
 
