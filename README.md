@@ -13,6 +13,8 @@ Interests: Genetics, Bioinformatics, Philosophy of Science, Applied AI
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rezamansourii&theme=radical)](https://github.com/rezamansourii)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezamansourii&hide=contribs,prs)
+
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rezamansourii.rezamansourii)](https://github.com/rezamansourii)
 
 ---
